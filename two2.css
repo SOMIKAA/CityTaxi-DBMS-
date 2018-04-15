@@ -1,0 +1,39 @@
+div.h1
+{
+  color:cyan;
+  text-align:center;
+}
+div.p1
+{ 
+   color:grey;
+   text-align:center;
+   line-height: 2;
+   size:40;
+}
+div.h2
+{
+	color:black;
+	text-align:left;
+	line-height:3;
+}
+div.table
+{
+	
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+div.th
+{
+	border: 1px solid black;
+    border-collapse: collapse;
+}
+div.td
+{
+	border: 1px solid black;
+    border-collapse: collapse;
+}
+div.tr
+{
+	border: 1px solid black;
+    border-collapse: collapse;
+}

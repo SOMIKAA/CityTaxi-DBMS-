@@ -1,0 +1,27 @@
+<html>
+<head>
+<link rel="stylesheet" href="formcs.css">
+<script type="text/javascript" src="formvalid.js">
+</script>
+</head>
+<body>
+<div>
+<fieldset>
+<h1><b><center>FILL YOUR DETAILS</center></b></h1>
+<form action="registration.php" method="get" onsubmit="return validation()">
+<b>NAME :</b><br/>First name <input type="text" style="height:30px" name="fusername"/>Last name:<input type="text" name="lusername" style="height:30px"/><br><br>
+<b><br>ADDRESS :</b><input type="text" name="useraddress" style="height:30px;width:300px"/><br><br>
+<b><br>GENDER :</b><br/><input type="radio" name="gender" value="male" checked>Male<br>
+<input type="radio" name="gender" value="female"> Female<br><br><br>
+<b>CONTACT NO. :</b><input type="text" name="userphone" style="height:30px" required/><br><br>
+<b><br>DESTINATION :</b><input type="text" name="userdestination" style="height:30px" required/><br><br>
+<b><br>EMAIL :</b><input type="text" name="user_email" style="height:30px;width:300px" required />
+
+<div style="text-align:center">  
+    <input type="submit" /> 
+</fieldset>	
+</div>
+</form>
+</div>
+</body>
+</html>

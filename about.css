@@ -1,0 +1,44 @@
+h1
+{
+	text-align:left;
+	
+	
+}
+div.p1
+{
+	display:block;
+	text-align:center;
+	font-size:25px;
+	margin: 40px 40px 40px 40px;
+}
+div.quality
+{
+ text-align:left;
+ border:solid;
+ }
+ul.a
+{
+	font-size:20px;
+}
+
+ul.b
+{
+	font-size:20px;
+	text-align:center;
+	height:20px;
+}
+ul.c
+{
+	font-size:20px;
+	text-align:right:
+}
+
+body
+{
+	background-color:lightyellow;
+
+    background-image: url("http://previews.123rf.com/images/ku2raza/ku2raza1203/ku2raza120300101/12802657-Racing-background-template-Stock-Vector-race-flag-background.jpg");
+
+}
+
+

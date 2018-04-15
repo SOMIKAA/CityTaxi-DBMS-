@@ -1,0 +1,30 @@
+
+p
+{
+	
+	text-align:center;
+	font-size:25px;
+}
+
+ul{
+	font-size:20px;
+	
+}
+
+table, td, th
+ {
+    border: 1px solid grey;
+    text-align: center;
+}
+
+table
+ {
+    border-collapse: collapse;
+    width: 100%;
+	
+}
+
+th, td 
+{
+    padding: 15px;
+}
